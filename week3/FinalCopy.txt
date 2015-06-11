@@ -1,0 +1,14 @@
+About Me
+	Mini Bio
+	Goals
+	Interests
+Resume	(Possible link to a formal resume file) 
+	Projects 
+		Ninja Shooter (Windows 8 app) - developed a casual game that is available in the windows app store
+		The 100 (story perspective website) - a side project that is for web design practice as well as for fun
+	Education 
+	Experience
+Contact Info
+	email
+	work phone
+
