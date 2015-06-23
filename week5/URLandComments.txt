@@ -1,0 +1,3 @@
+URL: https://dash.generalassemb.ly/leungamy/cotbots-4
+
+Notes: not sure why but the laser eyes do not work for me. The code is correct but the animation just won't work. On the projects page the buttons all work. I tested this by using the alert function. The cotter gif appears and disappears and I am able to change the background by clicking the change color button. It is when you use the link above which then none of the buttons work... 
